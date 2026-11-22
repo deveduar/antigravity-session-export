@@ -353,3 +353,11 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 gRPC/Protobuf schemas were reverse-engineered and extracted by [ふじゃ](https://github.com/jkfujinami/antigravity-grpc-schemas)
 
 MIT; see [`LICENSE`](./LICENSE).
+
+## Disclaimer
+
+This is an unofficial, independent project. It is not affiliated with,
+endorsed by, sponsored by, or associated with Google LLC or any of its
+subsidiaries or affiliates. Google and Antigravity are trademarks of their
+respective owners. This project is provided "as is", without warranty of any
+kind; use it at your own risk.
